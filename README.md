@@ -33,17 +33,16 @@
 </div>
 
 ### ⚡ My projects:
-
-- ![React project: Burger house](https://github.com/Lakatosska/react-burger/)
-- ![Backend: BuyGiftGive - service of wishlists](https://github.com/Lakatosska/kupipodariday-backend/)
-- ![Like instagram: Mesto project](https://github.com/Lakatosska/mesto-project/)
-- ![Algorithm animation](https://github.com/Lakatosska/algososh/)
-- ![Kalyaka - drawing app landing](https://github.com/Lakatosska/kalyaka/)
-- ![Adaptive layout: Russian travel](https://github.com/Lakatosska/russian-travel/)
+- [React project: Burger house](https://github.com/Lakatosska/react-burger/)
+- [Backend: BuyGiftGive - service of wishlists](https://github.com/Lakatosska/kupipodariday-backend/)
+- [Like instagram: Mesto project](https://github.com/Lakatosska/mesto-project/)
+- [Algorithm animation](https://github.com/Lakatosska/algososh/)
+- [Kalyaka - drawing app landing](https://github.com/Lakatosska/kalyaka/)
+- [Adaptive layout: Russian travel](https://github.com/Lakatosska/russian-travel/)
 
 ### ⚡ Team projects:
-- ![Project for NPO: Projito](https://github.com/Lakatosska/prozhito-project/)
-- ![Project for NPO: Gedonism fest](https://github.com/LebedevMV/nochlezhka/)
+- [Project for NPO: Projito](https://github.com/Lakatosska/prozhito-project/)
+- [Project for NPO: Gedonism fest](https://github.com/LebedevMV/nochlezhka/)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Lakatosska.Lakatosska)
 <!---
