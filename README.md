@@ -26,10 +26,26 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Postgresql" **alt="Postgresql" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original-wordmark.svg" title="Webpack" **alt="Webpack" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" **alt="Jest" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Cypress.png?20191226135330" alt="Cypress Logo" height="30"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Ubuntu" **alt="Ubuntu" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" **alt="Docker" width="40" height="40"/>  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="40" height="40"/> 
 </div>
 
+### ⚡ My projects:
+
+- ![React project: Burger house](https://github.com/Lakatosska/react-burger/)
+- ![Backend: BuyGiftGive - service of wishlists](https://github.com/Lakatosska/kupipodariday-backend/)
+- ![Like instagram: Mesto project](https://github.com/Lakatosska/mesto-project/)
+- ![Algorithm animation](https://github.com/Lakatosska/algososh/)
+- ![Kalyaka - drawing app landing](https://github.com/Lakatosska/kalyaka/)
+- ![Adaptive layout: Russian travel](https://github.com/Lakatosska/russian-travel/)
+
+### ⚡ Team projects:
+- ![Project for NPO: Projito](https://github.com/Lakatosska/prozhito-project/)
+- ![Project for NPO: Gedonism fest](https://github.com/LebedevMV/nochlezhka/)
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Lakatosska.Lakatosska)
 <!---
 
 ![git](https://user-images.githubusercontent.com/89295707/163630985-4d8bd03a-9f22-4b1d-9deb-9c4840523602.svg)
