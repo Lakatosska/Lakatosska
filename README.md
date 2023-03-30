@@ -1,4 +1,4 @@
-- 👋 Hi, I’m a junior fullstack developer with a focus on frontent
+- 👋 Hi, I’m a junior fullstack developer with a focus on frontend
 - 👨🏻‍🎓 I’m finishing 1.5-year [Yandex web-course](https://practicum.yandex.ru/web-plus/)
 - 👀 I’m looking to collaborate on interesting web projects
 - 💞️ I like to learn smth new, to communicate with others and achieve goals
@@ -26,7 +26,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Postgresql" **alt="Postgresql" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original-wordmark.svg" title="Webpack" **alt="Webpack" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" **alt="Jest" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Cypress.png?20191226135330" alt="Cypress Logo" height="30"/>
+  <img width="32px" height="32px" src="https://github.com/cypress-io/cypress-icons/blob/master/src/icons/icon_32x32.png?raw=true" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Ubuntu" **alt="Ubuntu" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" **alt="Docker" width="40" height="40"/>  
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="40" height="40"/> 
