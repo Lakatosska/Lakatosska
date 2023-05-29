@@ -28,6 +28,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" **alt="Jest" width="40" height="40"/>
   <img width="32px" height="32px" src="https://github.com/cypress-io/cypress-icons/blob/master/src/icons/icon_32x32.png?raw=true" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Ubuntu" **alt="Ubuntu" width="40" height="40"/>
+  <img alt="Nginx" style="margin-right:0.5rem;" height="32" width="32" src="https://cdn.simpleicons.org/nginx" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" **alt="Docker" width="40" height="40"/>  
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="40" height="40"/> 
 </div>
