@@ -33,9 +33,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="40" height="40"/> 
 </div>
 
+---
 
-
-[![](https://www.codewars.com/users/Lakatosska/badges/small)](https://www.codewars.com/users/Lakatosska)
+[![codewars](https://www.codewars.com/users/Lakatosska/badges/small)](https://www.codewars.com/users/Lakatosska)
 
 ### ⚡ My projects:
 - [React project: Burger house](https://github.com/Lakatosska/react-burger/)
