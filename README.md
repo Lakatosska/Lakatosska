@@ -1,5 +1,5 @@
 - 👋 Hi, I’m a junior fullstack developer with a focus on frontend
-- 👨🏻‍🎓 I’m finishing 1.5-year [Yandex web-course](https://practicum.yandex.ru/web-plus/)
+- 👨🏻‍🎓 I’m finishing 1.5-year [Yandex full-stack course](https://practicum.yandex.ru/fullstack-developer)
 - 👀 I’m looking to collaborate on interesting web projects
 - 💞️ I like to learn smth new, to communicate with others and achieve goals
 - 📫 How to reach me:
