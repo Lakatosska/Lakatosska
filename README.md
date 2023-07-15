@@ -40,6 +40,7 @@
 ### ⚡ My projects:
 - [React project: Burger house](https://github.com/Lakatosska/react-burger/)
 - [Backend: BuyGiftGive - service of wishlists](https://github.com/Lakatosska/kupipodariday-backend/)
+- [Backend: Docker, Nginx](https://github.com/Lakatosska/web-plus-docker-and-compose/)
 - [Like instagram: Mesto project](https://github.com/Lakatosska/mesto-project/)
 - [Algorithm animation](https://github.com/Lakatosska/algososh/)
 - [Kalyaka - drawing app landing](https://github.com/Lakatosska/kalyaka/)
