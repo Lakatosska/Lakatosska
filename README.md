@@ -6,7 +6,7 @@
 
     <a  href="https://t.me/nikiforova_lena" target="_blank"> <img src="./src/social/tg.png" alt="Telegram" height = 20></a>
     <a  href="mailto:vizualnoe@gmail.com" target="_blank"> <img src="./src/social/gm.png" alt="Gmail" height = 20></a>
-    <a  href="https://www.linkedin.com/in/elena-nikiforova-8518a055/" target="_blank"> <img src="./src/social/linkedin.png" alt="Linkedin" height = 20></a>
+    <!-- <a  href="https://www.linkedin.com/in/elena-nikiforova-8518a055/" target="_blank"> <img src="./src/social/linkedin.png" alt="Linkedin" height = 20></a>-->
     
 
 ### ⚡ Tech Stack:
