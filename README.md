@@ -47,7 +47,7 @@
 
 ### ⚡ Team projects:
 - [Project for NPO: Projito](https://github.com/Lakatosska/prozhito-project/)
-- [Project for NPO: I'm helping](https://github.com/vartuom/i-am-helping)/)
+- [Project for NPO: I'm helping](https://github.com/vartuom/i-am-helping/)
 - [Project for NPO: Gedonism fest](https://github.com/LebedevMV/nochlezhka/)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Lakatosska.Lakatosska)
