@@ -38,18 +38,37 @@
 [![codewars](https://www.codewars.com/users/Lakatosska/badges/small)](https://www.codewars.com/users/Lakatosska)
 
 ### ⚡ My projects:
-- [React project: Burger house](https://github.com/Lakatosska/react-burger/)
-- [Backend: BuyGiftGive - service of wishlists](https://github.com/Lakatosska/kupipodariday-backend/)
-- [Backend: Docker, Nginx](https://github.com/Lakatosska/web-plus-docker-and-compose/)
-- [Like instagram: Mesto project](https://github.com/Lakatosska/mesto-project/)
-- [Algorithm animation](https://github.com/Lakatosska/algososh/)
-- [Kalyaka - drawing app landing](https://github.com/Lakatosska/kalyaka/)
-- [Adaptive layout: Russian travel](https://github.com/Lakatosska/russian-travel/)
+- [Burger house](https://github.com/Lakatosska/react-burger/)<br>
+React, React Router, Redux, Typescript, Webpack, Api, Web Socket, Authorization, Protected routes, drag-n-drop
+
+- [Backend: BuyGiftGive - service of wishlists](https://github.com/Lakatosska/kupipodariday-backend/)<br>
+TypeScript, NestJS, PostgreSQL, TypeORM, Passport.js
+
+- [Dockerizing and Deploy in the cloud: BuyGiftGive](https://github.com/Lakatosska/web-plus-docker-and-compose/)<br>
+Docker, Docker-compose, Nginx, AWS
+
+- [Like instagram: Mesto project](https://github.com/Lakatosska/mesto-project/)<br>
+JS (class), Webpack, Api, refactoring to OOP
+
+- [Algorithm animation](https://github.com/Lakatosska/algososh/)<br>
+React + Typescript, Jest, Cypress, анимация и поэтапное отображение работы основных алгоритмов
+(сортировки, последовательность Фибоначчи, стек, очередь и т.д.)
+
+- [Kalyaka - drawing app landing](https://github.com/Lakatosska/kalyaka/)<br>
+Landing with slider and adaptive layout, SASS/SCSS
+
+- [Adaptive layout: Russian travel](https://github.com/Lakatosska/russian-travel/)<br>
+HTML5, CSS3 (flex-box, grid)
 
 ### ⚡ Team projects:
-- [Project for NPO: Projito](https://github.com/Lakatosska/prozhito-project/)
-- [Project for NPO: I'm helping](https://github.com/vartuom/i-am-helping/)
-- [Project for NPO: Gedonism fest](https://github.com/LebedevMV/nochlezhka/)
+- [Project for NPO: Projito](https://github.com/Lakatosska/prozhito-project/)<br>
+React, TS, React Router, Redux Toolkit + RTK Query
+
+- [Project for NPO: I'm helping](https://github.com/vartuom/i-am-helping/)<br>
+React, TS, React Router, Redux Toolkit, Storybook
+
+- [Project for NPO: Gedonism fest](https://github.com/LebedevMV/nochlezhka/)<br>
+HTML5, CSS3 (flex-box, grid), forms, adaptive layout
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Lakatosska.Lakatosska)
 <!---
