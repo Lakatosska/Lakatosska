@@ -37,7 +37,7 @@
 
 [![codewars](https://www.codewars.com/users/Lakatosska/badges/small)](https://www.codewars.com/users/Lakatosska)
 
-### ⚡ My projects:
+### ⚡ Some of my projects:
 - [Burger house](https://github.com/Lakatosska/react-burger/)<br>
 React, React Router, Redux, Typescript, Webpack, Api, Web Socket, Authorization, Protected routes, drag-n-drop
 
@@ -53,12 +53,6 @@ JS (class), Webpack, Api, refactoring to OOP
 - [Algorithm animation](https://github.com/Lakatosska/algososh/)<br>
 React + Typescript, Jest, Cypress, анимация и поэтапное отображение работы основных алгоритмов
 (сортировки, последовательность Фибоначчи, стек, очередь и т.д.)
-
-- [Kalyaka - drawing app landing](https://github.com/Lakatosska/kalyaka/)<br>
-Landing with slider and adaptive layout, SASS/SCSS
-
-- [Adaptive layout: Russian travel](https://github.com/Lakatosska/russian-travel/)<br>
-HTML5, CSS3 (flex-box, grid)
 
 ### ⚡ Team projects:
 - [Project for NPO: Projito](https://github.com/Lakatosska/prozhito-project/)<br>
