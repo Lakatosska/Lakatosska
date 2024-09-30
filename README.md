@@ -55,6 +55,9 @@ React + Typescript, Jest, Cypress, анимация и поэтапное ото
 (сортировки, последовательность Фибоначчи, стек, очередь и т.д.)
 
 ### ⚡ Team projects:
+- [Agricultural machinery rental website](https://github.com/agricultural-machinery-rental/client)<br>
+FSD-architechure, Next, TS, Redux Toolkit, Storybook, Styled-Components, Jest
+
 - [Project for NPO: Projito](https://github.com/Lakatosska/prozhito-project/)<br>
 React, TS, React Router, Redux Toolkit + RTK Query
 
