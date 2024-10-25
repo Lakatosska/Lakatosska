@@ -8,7 +8,7 @@
     <a  href="mailto:vizualnoe@gmail.com" target="_blank"> <img src="./src/social/gm.png" alt="Gmail" height = 20></a>
     <!-- <a  href="https://www.linkedin.com/in/elena-nikiforova-8518a055/" target="_blank"> <img src="./src/social/linkedin.png" alt="Linkedin" height = 20></a>-->
 
-- CV in Russian <a href="https://hh.ru/resume/a55b177aff0c1554890039ed1f766a52475365"><img src="https://cs12.pikabu.ru/post_img/2021/05/05/8/og_og_1620221808258326152.jpg" alt="hh.ru" title="link" width="30"/></a>
+- CV in Russian <a href="https://hh.ru/resume/9b46a60dff0de0e55a0039ed1f56724c326874"><img src="https://cs12.pikabu.ru/post_img/2021/05/05/8/og_og_1620221808258326152.jpg" alt="hh.ru" title="link" width="30"/></a>
     
 
 ### ⚡ Tech Stack:
